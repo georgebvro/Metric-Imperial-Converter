@@ -1,0 +1,14 @@
+code {
+    /*background-color: whitesmoke;*/
+    background-color: black;
+    color: white;
+}
+
+section, header {
+    margin: 50px;
+}
+
+body {
+    background-color: dimgray;
+    color: antiquewhite;
+}
